@@ -1,0 +1,8 @@
+kaleido
+openai
+seaborn
+plotly
+pretty_html_table
+seaborn
+wordcloud
+xlsxwriter
